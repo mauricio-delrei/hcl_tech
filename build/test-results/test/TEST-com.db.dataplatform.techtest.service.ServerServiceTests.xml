@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.db.dataplatform.techtest.service.ServerServiceTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-11-26T20:34:06" hostname="DESKTOP-5QBDTNM" time="0.32">
+  <properties/>
+  <testcase name="shouldFindByBlockTypeAsExpected" classname="com.db.dataplatform.techtest.service.ServerServiceTests" time="0.29"/>
+  <testcase name="shouldSaveDataEnvelopeAsExpected" classname="com.db.dataplatform.techtest.service.ServerServiceTests" time="0.029"/>
+  <system-out><![CDATA[20:34:06.799 [Test worker] INFO com.db.dataplatform.techtest.server.component.impl.ServerImpl - Getting data by BlockType BLOCKTYPEA
+20:34:06.811 [Test worker] INFO com.db.dataplatform.techtest.server.component.impl.ServerImpl - Persisting data with attribute name: Test
+20:34:06.812 [Test worker] INFO com.db.dataplatform.techtest.server.component.impl.ServerImpl - Data persisted successfully, data name: Test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

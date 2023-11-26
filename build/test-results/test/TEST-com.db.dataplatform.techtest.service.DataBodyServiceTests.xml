@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.db.dataplatform.techtest.service.DataBodyServiceTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-11-26T20:34:06" hostname="DESKTOP-5QBDTNM" time="0.245">
+  <properties/>
+  <testcase name="shouldSaveDataBodyEntityAsExpected" classname="com.db.dataplatform.techtest.service.DataBodyServiceTests" time="0.242"/>
+  <testcase name="shouldGetDataBodyEntityByBlockTypeAsExpected" classname="com.db.dataplatform.techtest.service.DataBodyServiceTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
